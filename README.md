@@ -4,7 +4,7 @@
 
 🎯 Problem Statement: I analyzed a Power BI dashboard to uncover the effects of 5G on revenue and key performance indicators (KPIs). Check out my presentation video attached below for more details!
 
-**LinkedIn Post Link :-**
+**LinkedIn Post Link :-**  https://www.linkedin.com/feed/update/urn:li:ugcPost:7251639410897661953/
 
 
 🌟 **Key Objectives:**
